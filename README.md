@@ -13,6 +13,5 @@ We fully rebuilt the folder structure Rockstar Games originally had, ported the 
 
 ## Lost Media
 These files are lost media and can not be added here:
-- http://193.132.201.161/RealContent/gta/keithrap.ra 
-   - This file was linked if you pressed on the logo under the bands tab sadly this file was not archived.
-- 
+- gta_full.ra a copy of the full 60min soundtrack was hosted on an old website and it has not been archived
+
