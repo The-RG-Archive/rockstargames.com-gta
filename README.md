@@ -1,6 +1,6 @@
 ![Icon](/rockstargames.com-gta/gta/gtalogo.jpg)
 
-# rockstargames.com-gta
+# Grand Theft Auto Website
 A archive of the original rockstargames.com/gta website contained previews demos of gta 1 and a lot off cool stuff to explore.
 
 Thanks to https://github.com/GreenSoupDeveloper; for some help.
