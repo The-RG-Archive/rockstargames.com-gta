@@ -3,7 +3,7 @@
 # rockstargames.com-gta
 A archive of the original rockstargames.com/gta website contained previews demos of gta 1 and a lot off cool stuff to explore.
 
-Thanks to [@](https://github.com/Redsoupdev/lifeinvader.com/commits?author=GreenSoupDeveloper) for some help.
+Thanks to https://github.com/GreenSoupDeveloper; for some help.
 
 ## Website: WIP
 
