@@ -13,5 +13,6 @@ We fully rebuilt the folder structure Rockstar Games originally had, ported the 
 
 ## Lost Media
 These files are lost media and can not be added here:
-WIP
-
+- http://193.132.201.161/RealContent/gta/keithrap.ra 
+   - This file was linked if you pressed on the logo under the bands tab sadly this file was not archived.
+- 
