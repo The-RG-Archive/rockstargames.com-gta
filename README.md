@@ -5,7 +5,7 @@ A archive of the original rockstargames.com/gta website contained previews demos
 
 Thanks to https://github.com/GreenSoupDeveloper; for some help.
 
-## Website: WIP
+## Website: https://redsoupdev.github.io/rockstargames.com-gta/
 
 ## About this project:
 The pages were all pulled from the Wayback Machine and completely cleaned of any Wayback Machine artifacts. 
