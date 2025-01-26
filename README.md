@@ -13,5 +13,4 @@ We fully rebuilt the folder structure Rockstar Games originally had, ported the 
 
 ## Notes
 These files are lost media and can not be added here:
-- gta_full.ra a copy of the full 60min soundtrack was hosted on an old website and it has not been archived
-
+The gta_full.ra is a recreation because the real file is lost media. We know that this file contained the full 60 Minute soundtrack so we found a copy of the soundtrack and renamed it.
