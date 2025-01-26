@@ -13,6 +13,7 @@ Thanks to https://github.com/GreenSoupDeveloper; for some help.
 The pages were all pulled from the Wayback Machine and completely cleaned of any Wayback Machine artifacts. 
 We fully rebuilt the folder structure Rockstar Games originally had, ported the Flash games to Ruffle, fixed all redirects, and recovered all assets.
 
+It also contains the pogothemonkey.com website as the website redirected to it if your not allowed to see the content.
 ## Notes
-These files are lost media and can not be added here:
-The gta_full.ra is a recreation because the real file is lost media. We know that this file contained the full 60 Minute soundtrack so we found a copy of the soundtrack and renamed it.
+The gta_full.ra is a recreation because the real file is lost media. 
+We know that this file contained the full 60 Minute soundtrack so we found a copy of the soundtrack and renamed it.
