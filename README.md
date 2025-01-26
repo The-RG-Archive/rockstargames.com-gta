@@ -11,7 +11,7 @@ Thanks to https://github.com/GreenSoupDeveloper; for some help.
 The pages were all pulled from the Wayback Machine and completely cleaned of any Wayback Machine artifacts. 
 We fully rebuilt the folder structure Rockstar Games originally had, ported the Flash games to Ruffle, fixed all redirects, and recovered all assets.
 
-## Lost Media
+## Notes
 These files are lost media and can not be added here:
 - gta_full.ra a copy of the full 60min soundtrack was hosted on an old website and it has not been archived
 
