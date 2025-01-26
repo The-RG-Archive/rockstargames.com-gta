@@ -3,6 +3,8 @@
 # Grand Theft Auto Website
 A archive of the original rockstargames.com/gta website contained previews demos of gta 1 and a lot off cool stuff to explore.
 
+This website is 100% complete and working.
+
 Thanks to https://github.com/GreenSoupDeveloper; for some help.
 
 ## Website: https://the-rg-archive.github.io/rockstargames.com-gta
