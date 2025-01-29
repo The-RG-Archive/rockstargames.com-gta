@@ -17,3 +17,5 @@ It also contains the pogothemonkey.com website as the website redirected to it i
 ## Notes
 The gta_full.ra is a recreation because the real file is lost media. 
 We know that this file contained the full 60 Minute soundtrack so we found a copy of the soundtrack and renamed it.
+
+All rights to these pages belong to Rockstar Games and Take-Two Interactive.
