@@ -17,5 +17,17 @@ It also contains the pogothemonkey.com website as the website redirected to it i
 ## Notes
 The gta_full.ra is a recreation because the real file is lost media. 
 We know that this file contained the full 60 Minute soundtrack so we found a copy of the soundtrack and renamed it.
+But the original files was like this:
+- 60 Minute Soundtrack.
+- Very compressed to like 7mb
+- Order of the musik
+  1.The Fix FM
+  2.Head Radio
+  3.Radio '76
+  4.N-CT FM
+  5.Brooklyn Underground
+  6.It's Unleashed FM
+  7.The Fergus Buckner Show
+  8.Gangster Friday (Title Theme)
 
 All rights to these pages belong to Rockstar Games and Take-Two Interactive.
