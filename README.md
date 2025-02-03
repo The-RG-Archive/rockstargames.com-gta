@@ -19,7 +19,7 @@ The gta_full.ra is a recreation because the real file is lost media.
 We know that this file contained the full 60 Minute soundtrack so we found a copy of the soundtrack and renamed it.
 But the original files was like this:
 - 60 Minute Soundtrack.
-- Very compressed to like 7mb
+- Very compressed to around 7mb
 - Order of the musik
   1.The Fix FM
   2.Head Radio
