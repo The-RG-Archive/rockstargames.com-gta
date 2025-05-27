@@ -1,4 +1,4 @@
-![Icon](/rockstargames.com-gta/gta/gtalogo.jpg)
+![Icon](/gta/gtalogo.jpg)
 
 # Grand Theft Auto Website
 A archive of the original rockstargames.com/gta website contained previews demos of gta 1 and a lot off cool stuff to explore.
@@ -11,13 +11,13 @@ Thanks to https://github.com/GreenSoupDeveloper; for some help.
 
 ## About this project:
 The pages were all pulled from the Wayback Machine and completely cleaned of any Wayback Machine artifacts. 
-We fully rebuilt the folder structure Rockstar Games originally had, ported the Flash games to Ruffle, fixed all redirects, and recovered all assets.
+We fully rebuilt the folder structure Rockstar Games originally had, ported the Flash games to Ruffle, fixed all redirects, and recovered most assets.
 
 It also contains the pogothemonkey.com website as the website redirected to it if your not allowed to see the content.
 ## Notes
-The gta_full.ra is a recreation because the real file is lost media. 
-We know that this file contained the full 60 Minute soundtrack so we found a copy of the soundtrack and renamed it.
-But the original files was like this:
+The gta_full.ra file is lost media. 
+We know that this file contained the full 60 Minute soundtrack.
+The original files was like this:
 - 60 Minute Soundtrack.
 - Very compressed to around 7mb
 - Order of the musik
